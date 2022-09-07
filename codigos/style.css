@@ -1,0 +1,33 @@
+.titulo {
+    background-color: lightpink;
+}
+
+h1 {
+    color: black;
+}
+
+.caja {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 1rem;
+    background-color: blueviolet;
+}
+
+.caja2 {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 1rem;
+    background-color: lightgreen;
+
+}
+
+.quienes {
+border: 5px solid lightsalmon;
+padding: 3px;
+border-radius: 10px;
+background-color: aquamarine;
+
+}
+
